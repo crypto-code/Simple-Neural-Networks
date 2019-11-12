@@ -27,3 +27,18 @@ python network_train.py
 python network_test.py --input=[image file]
 ```
 
+## 2) Long-Short Term Memory Recurrent Neural Network
+It is a neural network unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video). For example, LSTM is applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition.
+
+<p align="center">
+<img src="https://github.com/crypto-code/Simple-Neural-Network/blob/master/assets/LSTM.png" align="middle" />   </p>
+
+The code for the model is present in the LSTM folder, the model can be run from network.py
+```
+python network.py
+```
+
+# G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
